@@ -1,0 +1,1 @@
+If you would like to learn more about the topics discussed in Lesson 1, take a look at the following video, Intro to Computer Storage Terminology, which can be located [here](https://www.youtube.com/watch?v=oZtcperrdQI)

@@ -1,0 +1,342 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3075392503",
+  "source": {
+   "name": "Question 1:  Which one of the following describes a device that holds data?",
+   "showName": false,
+   "instructions": "**Question 1: Which one of the following describes a device that holds data?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "5c7b166c-540c-c28e-041f-5ca16309a59d",
+     "correct": false,
+     "answer": "Storage device"
+    },
+    {
+     "_id": "cd19eb0d-e2a9-74f7-e1cc-2a5849c16607",
+     "correct": false,
+     "answer": "Gigabyte"
+    },
+    {
+     "_id": "5434ffba-d659-37e7-43bb-72a007e9aba7",
+     "correct": true,
+     "answer": "Storage medium"
+    },
+    {
+     "_id": "243599d8-2af8-d5da-eae7-960315ae3ca8",
+     "correct": false,
+     "answer": "Storage media"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-823822962",
+  "source": {
+   "name": "Question 2: Which one of the following describes secondary storage?",
+   "showName": false,
+   "instructions": "**Question 2: Which one of the following describes secondary storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d314703f-a56f-db79-5e48-4f767889ef1e",
+     "correct": false,
+     "answer": "Extra storage"
+    },
+    {
+     "_id": "17038472-8c3b-81a5-7c45-440361a1d468",
+     "correct": false,
+     "answer": "Volatile"
+    },
+    {
+     "_id": "9dcd161a-e9a7-e0c8-a6e7-6bdbfecd7400",
+     "correct": false,
+     "answer": "Big data"
+    },
+    {
+     "_id": "e5857fc3-8c46-1e5e-4ce2-dbfed4c14bc9",
+     "correct": true,
+     "answer": "Non-volatile"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3825781431",
+  "source": {
+   "name": "Question 3: Which one of the following statements explains what volatile means?",
+   "showName": false,
+   "instructions": "**Question 3: Which one of the following statements explains what volatile means?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "When a computing device is switched off, data is stored",
+     "correct": false,
+     "_id": "267f2115-7bdc-c13f-1fd1-257768a47506"
+    },
+    {
+     "answer": "When a computing device is switched off, data is copied",
+     "correct": false,
+     "_id": "17a34fea-70b2-2f13-8ad4-1d73c7c63b6f"
+    },
+    {
+     "answer": "When a computing device is switched off data is detected",
+     "correct": false,
+     "_id": "a7a74f29-3ef3-0a2c-906c-b6fccb0f0615"
+    },
+    {
+     "correct": true,
+     "answer": "When a computing device is switched off, data is not stored",
+     "_id": "0917fddb-385e-5859-2ea4-0102401cd0f3"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1594716432",
+  "source": {
+   "name": "Question 4: Which one of the following is an example of internal storage medium?",
+   "showName": false,
+   "instructions": "**Question 4: Which one of the following is an example of internal storage medium?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "DVD-ROM",
+     "correct": false,
+     "_id": "fc4ba5ce-6ad8-1fc2-b732-ee8fc9f697d9"
+    },
+    {
+     "answer": "Terabyte",
+     "correct": false,
+     "_id": "793e310b-d263-7d45-d30f-f72e787699c4"
+    },
+    {
+     "correct": true,
+     "answer": "Hard disk",
+     "_id": "12222e71-1427-dbb4-e2a2-23cfd8509c49"
+    },
+    {
+     "answer": "Printer",
+     "correct": false,
+     "_id": "d5034613-e742-8405-8ff4-3309b83f3e59"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-280180382",
+  "source": {
+   "name": "Question 5: Which two of the following are features of storage media?",
+   "showName": false,
+   "instructions": "**Question 5: Which two of the following are features of storage media?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "Suitability",
+     "correct": false,
+     "_id": "c6af0dd2-e3b5-045a-ecc6-d6985da197c1"
+    },
+    {
+     "correct": true,
+     "answer": "Portability",
+     "_id": "a784277f-39c9-1787-922d-591bd16c9ff0"
+    },
+    {
+     "answer": "Colour",
+     "correct": false,
+     "_id": "fc9e218f-c844-1aee-aded-c9932f9e028e"
+    },
+    {
+     "correct": true,
+     "answer": "Cost",
+     "_id": "4fead91c-c06d-ff98-5031-a7343fbf86c9"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3055509584",
+  "source": {
+   "name": "Question 6: Which one of the following is the smallest unit of data?",
+   "showName": false,
+   "instructions": "**Question 6: Which one of the following is the smallest unit of data?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Byte",
+     "correct": false,
+     "_id": "ecb6397d-2b0a-0111-7522-fe2e101fdb14"
+    },
+    {
+     "answer": "Binary data",
+     "correct": false,
+     "_id": "f52acbcc-bf59-7d87-dbc1-cbef1df11746"
+    },
+    {
+     "correct": true,
+     "answer": "Bit",
+     "_id": "451a968d-8dea-f2e7-bc3c-efb0c1bef4b3"
+    },
+    {
+     "answer": "Nibble",
+     "correct": false,
+     "_id": "8904400b-32aa-94a3-8698-ffe17b5955e6"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-143337218",
+  "source": {
+   "name": "Question 7: Which one of the following statements is correct?",
+   "showName": false,
+   "instructions": "**Question 7: Which one of the following statements is correct?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "A gigabyte is equivalent to 100 megabytes",
+     "correct": false,
+     "_id": "4c6f1308-3640-06d7-0408-8911ce690479"
+    },
+    {
+     "answer": "A gigabyte is equivalent to 1000/10024 bytes",
+     "correct": false,
+     "_id": "788ec33d-9c94-508c-fcdf-2da8f1b062e2"
+    },
+    {
+     "correct": true,
+     "answer": "A gigabyte is equivalent to 1000/10024 megabytes",
+     "_id": "197bb116-2737-2808-5b7c-06e0592e7c9e"
+    },
+    {
+     "answer": "A gigabyte is equivalent to 1000/10024 terabytes",
+     "correct": false,
+     "_id": "a5b21a07-c814-5898-c77a-72d9b05fc081"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3498324321",
+  "source": {
+   "name": "Question 8: Which one of the following storage media enables the fastest access to data?",
+   "showName": false,
+   "instructions": "**Question 8: Which one of the following storage media enables the fastest access to data?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Binary digit",
+     "correct": false,
+     "_id": "ab88c8c0-3b15-b1c2-46d8-2585f7f4e89b"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state disk",
+     "_id": "8273d840-0990-b95c-e847-609af41916bd"
+    },
+    {
+     "answer": "Keyboard",
+     "correct": false,
+     "_id": "972f7e42-3789-51d7-f141-ac618e3843cd"
+    },
+    {
+     "answer": "Magnetic hard disk",
+     "correct": false,
+     "_id": "3316ef93-e1fc-5846-3165-c6b9ebb9fab5"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-904532150",
+  "source": {
+   "name": "Question 9: Which one of the following storage media is the most durable?",
+   "showName": false,
+   "instructions": "**Question 9: Which one of the following storage media is the most durable?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "7b4b5e33-d1a2-90f2-d566-e143adf4870b",
+     "correct": false,
+     "answer": "Blu-ray"
+    },
+    {
+     "_id": "dd2fbc15-511d-9dcb-e429-322bdb1c3f35",
+     "correct": false,
+     "answer": "DVD"
+    },
+    {
+     "_id": "7ff81587-396b-7116-d144-bf486bdc24cb",
+     "correct": false,
+     "answer": "CD"
+    },
+    {
+     "_id": "e2436bdd-bc95-9c61-1e14-f0abcd032105",
+     "correct": true,
+     "answer": "Solid state disk"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-420634742",
+  "source": {
+   "name": "Question 10: Which one of the following storage media is the cheapest to buy?",
+   "showName": false,
+   "instructions": "**Question 10: Which one of the following storage media is the cheapest to buy?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Solid state disk",
+     "correct": false,
+     "_id": "f7f1c13a-7e9a-4e74-d9af-8ecc1df726e8"
+    },
+    {
+     "answer": "Terabyte",
+     "correct": false,
+     "_id": "cde7b98c-7a1d-2d86-2293-857838d1350f"
+    },
+    {
+     "answer": "Digital data",
+     "correct": false,
+     "_id": "e53fe61b-f7be-90e7-0d1b-e74d0ef8123b"
+    },
+    {
+     "correct": true,
+     "answer": "Hard disk",
+     "_id": "515ab233-cb51-f82f-ac90-648b6b7ddcba"
+    }
+   ]
+  }
+ }
+]

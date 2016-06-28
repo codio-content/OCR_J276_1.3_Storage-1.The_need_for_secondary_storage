@@ -1,0 +1,150 @@
+{
+ "sections": [
+  {
+   "id": "871b3881-39d8-0bab-274b-f7554f815d0c",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-871b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "71ef1ea8-d170-2f8b-25f5-9d252e399a33",
+   "title": "Storage Types",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Storage-Types-71ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ef9ba1f0-b7f9-4e05-59c6-287835a928bc",
+   "title": "Features",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Features-ef9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "aa2cc947-4cc4-0879-72d3-f90107c4577d",
+   "title": "Capacity ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Capacity--aa2c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4bb3cbbb-e748-2a46-7b55-35dc97e7670a",
+   "title": "Speed",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Speed-4bb3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "197f25b7-7e89-234b-a073-352d34df9657",
+   "title": "Portability",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Portability-197f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1a78607e-14ef-1e07-aa28-7e09acc55a93",
+   "title": "Durability",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Durability-1a78.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2720c7e7-5f75-3b48-5350-6a334a515f3d",
+   "title": "Reliability",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reliability-2720.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "09334deb-b3d4-be84-52d2-51f29b607cdd",
+   "title": "Cost",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cost-0933.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1bbb2244-42d3-9802-83e9-26d60b2e984f",
+   "title": "Conclusion",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conclusion-1bbb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f20befe7-831c-f9df-65eb-c424ae57bf46",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-f20b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ca17aa04-6151-943c-6e9d-fa0df29a973e",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-ca17.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55002e75-9c67-9488-88da-fc0bac5c48d8",
+   "title": "Extended Learning",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extended-Learning-5500.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

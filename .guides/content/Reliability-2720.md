@@ -1,0 +1,1 @@
+It’s important that we will be able to access data stored on a storage media without any problems.  Some storage media are more reliable than others, for example, some are faster than others to store and access data, others are more portable and more durable.
