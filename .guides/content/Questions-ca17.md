@@ -38,7 +38,7 @@ Bit
 |||guidance
 # Solution
 
-A gigabyte is equivalent to 1000/10024 megabytes
+A gigabyte is equivalent to 1000/1024 megabytes
 |||
 {Check It!|assessment}(multiple-choice-3498324321)
 |||guidance
